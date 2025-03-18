@@ -444,7 +444,7 @@ const HeroSection = () => {
   return (
     <Section >
       <VideoContainer>
-        <video src={backgroundVideo} type="video/mp4" autoPlay muted loop playsinline />
+        <video src={backgroundVideo} type="video/mp4" autoPlay muted loop playsInline />
       </VideoContainer>
       
       <ContentWrapper>
